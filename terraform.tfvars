@@ -1,0 +1,7 @@
+project_name = "ci-cd-module"
+region = "europe-west2"
+zone = "europe-west2-a"
+cred_file = "~/serviceaccount.json"
+network_name = "terraform-example"
+gce_ssh_user = "tchiquizz"
+gce_ssh_pub_key_file= "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQC++ZB3psGRpXuHgbZGn63myTI3efd/uJnGoE86DAODi05HFECAMmwT9G6bEYIzrUwQcOSr3nJ9so8UoUY8lZPnqaOUGx2dwUOweIZRDmJi9F9EXoApP+21Ii+zyOGaHjHG9KhKMl3uHecoaX/Eknk8KRnkUSoLJbr6xSMbjm9MpWLH3qRi/HInU+RnMgYPA6CumeYZvXlYrKiaNYR5+ZVj9jDTU4bf2DO+4O8hE2/pXfk06+4MWkK7IKDdEcwrA2NLcnQDXNOKlq94UwuYhh/3OAM+EtzcJFy/HomFV+z7EUDrpCjxj5KSbMipsvM+OzEKJX2ukc7OD6DpVJSWe/3kXDMNl2ViS9y9AEIPsMqBsQNrPKP+57IFzg7kKBkvbQ8vdYYnSOOfwUH19aI8s31LiOId5wNOk91CKHBFkI45P8bBiOaD+sdLW2XmBUMIey89mvgUS6Dlli5WCM+wWFbH84JE81SsXhXJ7vGODjdTJsgW8WTAhtt1tNaLX9GPVUKtOj9E+C+IM4WlVTYrSi5mJ6tD3scKfp5NF4cU+PgfnEmga2jSdZLFR0Nhyxv0PvQmMZEEZDfgx8a6egL8YNGJItgJQRVobLzg/AQnskv7G+kA2xrnmo9+5AXOWN6WVuckmMnykrhREKRIaIzVUlnAr5D4GqgHhugqDIeAUPlSaw== gitlab-runner@ubuntu"
